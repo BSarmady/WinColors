@@ -1,0 +1,50 @@
+b_tabassom TTF "b_tabassom.ttf"
+
+scr_about PNG "scr_about.png"
+scr_bg PNG "scr_bg.png"
+scr_enter_name PNG "scr_enter_name.png"
+scr_result_box PNG "scr_result_box.png"
+scr_scrolls PNG "scr_scrolls.png"
+scr_color_header PNG "scr_color_header.png"
+
+scr_color_caption_first PNG "scr_color_caption_first.png"
+scr_color_caption_second PNG "scr_color_caption_second.png"
+
+btn_back_np PNG "btn_back_np.png"
+btn_back_up PNG "btn_back_up.png"
+btn_back_dn PNG "btn_back_dn.png"
+
+btn_print_np PNG "btn_print_np.png"
+btn_print_up PNG "btn_print_up.png"
+btn_print_dn PNG "btn_print_dn.png"
+
+btn_color_frame PNG "btn_color_frame.png"
+btn_colors PNG "btn_colors.png"
+
+btn_archive PNG "btn_archive.png"
+btn_archive_shade PNG "btn_archive_shade.png"
+btn_delete PNG "btn_delete.png"
+btn_delete_shade PNG "btn_delete_shade.png"
+btn_demo PNG "btn_demo.png"
+btn_demo_shade PNG "btn_demo_shade.png"
+btn_exit PNG "btn_exit.png"
+btn_exit_shade PNG "btn_exit_shade.png"
+btn_ladybug PNG "btn_ladybug.png"
+btn_ladybug_shade PNG "btn_ladybug_shade.png"
+btn_run PNG "btn_run.png"
+btn_run_shade PNG "btn_run_shade.png"
+btn_view PNG "btn_view.png"
+btn_view_shade PNG "btn_view_shade.png"
+
+snd_start WAVE "SND_START.wav"
+snd_click WAVE "SND_CLICK.wav"
+snd_click1 WAVE "SND_CLICK1.wav"
+snd_click2 WAVE "SND_CLICK2.wav"
+
+HELP_INTRO     TEXT "TEXT_HELP_INTRO.ENC.TXT"
+HELP_NOTES     TEXT "TEXT_HELP_NOTES.ENC.TXT"
+HELP_USE       TEXT "TEXT_HELP_USE.ENC.TXT"
+HELP_IMPORTANT TEXT "TEXT_HELP_IMPORTANT.ENC.TXT"
+TEXT_COLOR_CODES TEXT "TEXT_COLOR_CODES.ENC.TXT"
+
+
