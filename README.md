@@ -24,7 +24,7 @@ I made the program for hobby but used the knowledge I made out of it, in many pr
 
 Few months ago I found the program in my massive backup folder of old codes and tried to run it again, it was running but every test in it was showing gibberish.
 Well it was a modified Windows-1256 implementation to cater for Persian alphabet (ordering, code points ...).
-Time to touch up again. Only changes made were changing code page to UTF-8 and modify interface to show correctly on High DPI screens. Here is the source code for the whole thing (except the data of course). 
+Time to touch up again. Only changes made were changing code page to UTF-8 and modify interface to show correctly on High DPI screens. Here is the source code for the whole thing (except the data of course). Oh! Forget to mention, this is a 64bit application now and will not run on 32 bit machines.
 
 ## Notes:
 - Even though the released application does work, I had to remove some data due to copyright for 2 books and original application that are still valid.
